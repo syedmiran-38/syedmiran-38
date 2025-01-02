@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third-year Computer Science and Data Science student, currently leading the Google Developer Student Clubs in 2023. My primary focus and enthusiasm revolve around deep learning, a subset of artificial intelligence. This field's intricacies, from neural networks to data analysis, captivate me. I'm determined to explore its potential applications in solving real-world challenges and contribute to the ongoing advancements in deep learning.
+I am a fourth-year Computer Science and Data Science student, currently leading the Google Developer Student Clubs in 2023. My primary focus and enthusiasm revolve around deep learning, a subset of artificial intelligence. This field's intricacies, from neural networks to data analysis, captivate me. I'm determined to explore its potential applications in solving real-world challenges and contribute to the ongoing advancements in deep learning.
 
 
 ## 🌐 Socials:
