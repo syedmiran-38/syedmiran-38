@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fourth-year Computer Science and Data Science student, currently leading the Google Developer Student Clubs in 2023. My primary focus and enthusiasm revolve around deep learning, a subset of artificial intelligence. This field's intricacies, from neural networks to data analysis, captivate me. I'm determined to explore its potential applications in solving real-world challenges and contribute to the ongoing advancements in deep learning.
+Data Science graduate from Lords Institute of Engineering & Technology and former Google DSC Lead. Currently contributing at Amazon, with a strong passion for applying machine learning and data science to real-world challenges. Skilled in TensorFlow, statistical analysis, and hypothesis testing, with hands-on projects showcased on GitHub. Dedicated to continuous learning and growth in the data science field.
 
 
 ## 🌐 Socials:
